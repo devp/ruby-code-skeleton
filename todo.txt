@@ -1,0 +1,4 @@
+# Formatted for Sublime ToDone: https://github.com/tiffon/sublime-to-done
+
++ setup todo.txt
+- replace with your own tasks
